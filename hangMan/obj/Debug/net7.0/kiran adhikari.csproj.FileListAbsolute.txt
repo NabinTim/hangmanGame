@@ -1,0 +1,14 @@
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.AssemblyInfoInputs.cache
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.AssemblyInfo.cs
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.csproj.CoreCompileInputs.cache
+E:\kiran adhikari\bin\Debug\net7.0\kiran adhikari.exe
+E:\kiran adhikari\bin\Debug\net7.0\kiran adhikari.deps.json
+E:\kiran adhikari\bin\Debug\net7.0\kiran adhikari.runtimeconfig.json
+E:\kiran adhikari\bin\Debug\net7.0\kiran adhikari.dll
+E:\kiran adhikari\bin\Debug\net7.0\kiran adhikari.pdb
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.dll
+E:\kiran adhikari\obj\Debug\net7.0\refint\kiran adhikari.dll
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.pdb
+E:\kiran adhikari\obj\Debug\net7.0\kiran adhikari.genruntimeconfig.cache
+E:\kiran adhikari\obj\Debug\net7.0\ref\kiran adhikari.dll
