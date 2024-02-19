@@ -171,7 +171,7 @@ namespace HangmanAppTest
                         currentLettersGuessed.Add(letterGuessed);
                         // Update the drawing
                         printHangman(amountOfTimesWrong);
-                        // Print word
+                        // Prints the correct word
                         currentLettersRight = printWord(currentLettersGuessed, randomWord);
                         Console.Write("\r\n");
                         printLines(randomWord);
