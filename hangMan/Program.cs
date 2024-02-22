@@ -1,4 +1,7 @@
-﻿using System;
+//Min Prasad Timalsina
+//Description: Hangman game 
+
+using System;
 using System.Collections.Generic;
 using static System.Random; // Import Random class statically for easy access
 using System.Text;
@@ -10,7 +13,6 @@ namespace HangmanAppTest
         // Function to print the hangman figure based on the number of wrong attempts
         private static void printHangman(int wrong)
         {
-            // Display different hangman stages based on the number of wrong attempts
             if (wrong == 0)
             {
                 Console.WriteLine("\n+---+");
