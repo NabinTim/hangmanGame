@@ -1,5 +1,5 @@
 //Min Prasad Timalsina
-//Description: Hangman game 
+//Description: Hangman game coded from scratch
 
 using System;
 using System.Collections.Generic;
